@@ -15,4 +15,12 @@ Tensorflow Deep Learning
 
 ## Day 4 (2021-11-03)
 - 신경망 데이터 표현(0, 1, 2, 3, 4, 5차원 텐서)
+- 신경망 구조 학습
+  - 퍼셉트론
+  - 뉴련의 수학적 표현
+  - 완전 연결 계층 수학적 표현
+  - 논리회로(AND, OR, NAND, XOR 게이트)
+  - 다층 퍼셉트론
+  - 활성화 함수(Step Function, Sigmoid Function, ReLU, tanh, softmax, Identity Fuction)
+  - 3층 신경망 구현
 - 다중로지스틱 회귀 
