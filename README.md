@@ -23,4 +23,8 @@ Tensorflow Deep Learning
   - 다층 퍼셉트론
   - 활성화 함수(Step Function, Sigmoid Function, ReLU, tanh, softmax, Identity Fuction)
   - 3층 신경망 구현
-- 다중로지스틱 회귀 
+  - 다중로지스틱 회귀 
+
+## Day 5 (2021-11-04)
+- 모델학습과 손실함수(원-핫인코딩, 평균절대오차, 평균제곱오차, 교차엔트로피오차)
+- 경사하강법학습(볼록함수, 비볼록함수, 전역최적값/지역최적값, 학습률, 안장점)
