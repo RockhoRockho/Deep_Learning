@@ -54,7 +54,7 @@ Tensorflow Deep Learning
 - 하이퍼 파라미터
 - MNIST분류
 
-## Day 9 (2021-11-11)
+## Day 10 (2021-11-11)
 
 ### 합성곱 신경망 CNN 학습
 - 완전 연결계층과의 차이
@@ -66,3 +66,10 @@ Tensorflow Deep Learning
 - 합성곱 신경망 구현
 - 대표적인 CNN 모델(LeNet-5 , AlexNet, VGG-16)
 - CNN 학습구현 - Mnist
+
+## Day 11 (2021-11-15)
+
+- 자연어처리 학습
+  - CBOW, Skip-Gram Embedding, Word2Vec
+  - 순환신경망 (BPTT, Truncated BPTT, Time RNN Layer)
+  - LSTM(forget gate, input gate, output gate
