@@ -73,3 +73,9 @@ Tensorflow Deep Learning
   - CBOW, Skip-Gram Embedding, Word2Vec
   - 순환신경망 (BPTT, Truncated BPTT, Time RNN Layer)
   - LSTM(forget gate, input gate, output gate
+
+## Day 12 (2021-11-16)
+
+- 텐서플로우 학습(객체, 차원&연산, 난수생성, 즉시실행모드(Eager Mode), <->넘파이, 타입변환, 오토그래프, @tf.function, 변수생성, 자동미분(autograd))
+- 간단한 신경망 구조(퍼셉트론학습(가중치 업데이트), AND/OR/XOR Gate 학습
+- 시각화 사용(XOR Gate)
