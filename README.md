@@ -84,3 +84,8 @@ Tensorflow Deep Learning
 
 - 텐서플로우 회귀분석 모델 학습
 > 선형회귀, 다항회귀, 로지스틱 회귀학습
+
+## Day 14 (2021-11-18)
+
+- 케라스 학습(Dense, Activation, Flatten, Input, Sequential, subclassing, 모델 컴파일)
+- 텐서플로우(변수, 인덱싱, 슬라이싱, Transpose, 연산, 예제)학습
