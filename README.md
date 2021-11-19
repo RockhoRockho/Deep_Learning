@@ -89,3 +89,7 @@ Tensorflow Deep Learning
 
 - 케라스 학습(Dense, Activation, Flatten, Input, Sequential, subclassing, 모델 컴파일)
 - 텐서플로우(변수, 인덱싱, 슬라이싱, Transpose, 연산, 예제)학습
+
+## Day 14 (2021-11-19)
+
+- 케라스 학습(Dense, Activation, Flatten, Input, Sequential, subclassing, 모델 컴파일)
