@@ -93,3 +93,11 @@ Tensorflow Deep Learning
 ## Day 14 (2021-11-19)
 
 - 케라스 학습(Dense, Activation, Flatten, Input, Sequential, subclassing, 모델 컴파일)
+
+## Day 15 (2021-11-20)
+
+- 케라스 모델 가중치 확인
+- 케라스 모델 컴파일 학습
+- 모델 훈련 평가 및 예측
+- Mnist 예제를 통한 모델구성(modules import 데이터셋 로드, 데이터 전처리, 모델 구성, 모델 컴파일, 모델 학습, 학습결과 시각화, 학습된 모델을 통햬 값예측, 모델 저장과 복원)
+- 콜백(ModelCheckpoint, EarlyStopping, LearningRateScheduler, Tensorboard)
