@@ -101,3 +101,7 @@ Tensorflow Deep Learning
 - 모델 훈련 평가 및 예측
 - Mnist 예제를 통한 모델구성(modules import 데이터셋 로드, 데이터 전처리, 모델 구성, 모델 컴파일, 모델 학습, 학습결과 시각화, 학습된 모델을 통햬 값예측, 모델 저장과 복원)
 - 콜백(ModelCheckpoint, EarlyStopping, LearningRateScheduler, Tensorboard)
+
+## Day 16 (2021-11-23)
+
+- 케라스 보스턴 주택 가격 모델
