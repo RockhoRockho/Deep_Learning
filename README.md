@@ -105,3 +105,8 @@ Tensorflow Deep Learning
 ## Day 16 (2021-11-23)
 
 - 케라스 보스턴 주택 가격 모델
+
+## Day 17 (2021-11-24)
+
+- 케라스 자동차 연비 예측 모델
+- 케라스 Fashion-Mnist 모델예제
