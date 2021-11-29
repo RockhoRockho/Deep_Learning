@@ -115,3 +115,7 @@ Tensorflow Deep Learning
 
 - 케라스 다양한 학습 기술
 - 고속 옵티마이저, 배치 정규화, 규제화, 드롭아웃 학습
+
+## Day 19 (2021-11-29)
+
+- Data API를 이용한 Fashion-Mnist 
