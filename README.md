@@ -119,3 +119,10 @@ Tensorflow Deep Learning
 ## Day 19 (2021-11-29)
 
 - Data API를 이용한 Fashion-Mnist 
+
+## Day 20 (2021-11-30)
+
+- 행렬곱, BMM
+- Linear Layer
+- GPU 사용법
+- 손실함수
