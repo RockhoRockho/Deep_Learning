@@ -126,3 +126,10 @@ Tensorflow Deep Learning
 - Linear Layer
 - GPU 사용법
 - 손실함수
+
+## Day 21 (2021-12-02)
+
+- 손실함수 마무리
+- 사이킷런 모듈 학습
+- Iris data, Titanic data로 모델학습
+- 케라스 CNN 신경망 
