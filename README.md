@@ -133,3 +133,7 @@ Tensorflow Deep Learning
 - 사이킷런 모듈 학습
 - Iris data, Titanic data로 모델학습
 - 케라스 CNN 신경망 
+
+## Day 21 (2021-12-02)
+
+- 소핑몰 고객 주문데이터 
