@@ -134,6 +134,10 @@ Tensorflow Deep Learning
 - Iris data, Titanic data로 모델학습
 - 케라스 CNN 신경망 
 
-## Day 21 (2021-12-02)
+## Day 22 (2021-12-03)
 
 - 소핑몰 고객 주문데이터 
+
+## Day 23 (2021-12-03)
+
+- 케라스 CNN CIFAR10을 이용한 
