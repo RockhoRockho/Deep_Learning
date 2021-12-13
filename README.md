@@ -138,6 +138,6 @@ Tensorflow Deep Learning
 
 - 소핑몰 고객 주문데이터 
 
-## Day 23 (2021-12-03)
+## Day 23 (2021-12-13)
 
 - 케라스 CNN CIFAR10을 이용한 
