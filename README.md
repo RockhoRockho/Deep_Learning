@@ -141,3 +141,10 @@ Tensorflow Deep Learning
 ## Day 23 (2021-12-13)
 
 - 케라스 CNN CIFAR10을 이용한 
+
+## Day 24 (2021-12-14)
+
+- 케라스 전이학습
+  - dog vs cat 자료를 이용한 모델학습
+  - 사전 훈련된 모델 사용
+  - feature Map 
