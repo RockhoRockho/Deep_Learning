@@ -148,3 +148,10 @@ Tensorflow Deep Learning
   - dog vs cat 자료를 이용한 모델학습
   - 사전 훈련된 모델 사용
   - feature Map 
+
+- 케라스 텍스트 처리 및 임베딩
+  - IMDB 데이터를 활용한 모델학습
+  - Word2Vec
+    - gensim으로 학습된 단어 임베딩을 keras에서 불러오기
+    - keras에서 Word2Vec 직접학습
+    - 사전 훈련된 단어 임베딩 사용하기 Glove임베딩
