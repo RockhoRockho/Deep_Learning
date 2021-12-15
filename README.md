@@ -163,3 +163,5 @@ Deep Learning
   - Autograd(자동미분)
   - nn & nn.functional
   - Torchvision
+
+- 파이토치 신경망 생성(선형회귀 모델)
