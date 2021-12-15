@@ -1,5 +1,5 @@
-# Deep_Learning_Tensorflow
-Tensorflow Deep Learning
+# Deep_Learning_Tensorflow & Pytorch
+Deep Learning
 
 ## Day 1 (2021-10-27)
 - 딥러닝 상수, 변수, 플레이스홀더 학습
@@ -155,3 +155,11 @@ Tensorflow Deep Learning
     - gensim으로 학습된 단어 임베딩을 keras에서 불러오기
     - keras에서 Word2Vec 직접학습
     - 사전 훈련된 단어 임베딩 사용하기 Glove임베딩
+
+## Day 25 (2021-12-15)
+
+- 파이토치 기초학습
+  - 텐서연산, 조작, cpu<->gpu
+  - Autograd(자동미분)
+  - nn & nn.functional
+  - Torchvision
