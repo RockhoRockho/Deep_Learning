@@ -173,3 +173,9 @@ Deep Learning
 - 파이토치 CIFAR10 모델학습
 - 파이토치 사전훈련 모델로드 후 사용
 - 파이토치 RNN 분류 모델학습
+
+- 텐서플로우 수업
+  - 모델구현
+  - 트레이닝 스크립트 구현
+  - Data Augmentation
+  - Transfer Learning
