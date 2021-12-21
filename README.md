@@ -179,3 +179,14 @@ Deep Learning
   - 트레이닝 스크립트 구현
   - Data Augmentation
   - Transfer Learning
+
+## Day 27 (2021-12-21)
+
+- 자연어처리
+  - 텍스트처리
+  - 영어처리
+  - 한국어처리
+  - 토큰화 학습
+- Bag of Words(BoW)
+- 문서 단어 행렬(DTM)
+- 어휘 빈도-문서 역빈도(TF-IDF) 분석
