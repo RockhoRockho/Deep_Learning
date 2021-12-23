@@ -223,3 +223,9 @@ Deep Learning
   - 잠재 디리클레 할당(Lda Model)
   - Gensim을 이용한 토픽 모델링
   - 토픽 모델링 시각화
+
+- 임베딩
+  - 인코딩(정수 인코딩, 원핫인코딩)
+  - IMDB 데이터
+  - T-SNE
+  - Gensim을 이용한 Word2Vec
