@@ -237,3 +237,4 @@ Deep Learning
 - 합성공 신경망(IMDB, Reuters 데이터적용)
 - 케라스 Word2Vec 구현
   - Skipgram, CBOW 
+- CNN 스팸메일 분류 
