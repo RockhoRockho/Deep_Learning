@@ -229,3 +229,9 @@ Deep Learning
   - IMDB 데이터
   - T-SNE
   - Gensim을 이용한 Word2Vec
+
+## Day 30 (2021-12-27)
+
+- 순환 신경망(IMDB데이터로 모델학습)
+  - LSTM, GRU 적용
+- 합성공 신경망(IMDB, Reuters 데이터적용)
