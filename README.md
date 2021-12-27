@@ -235,3 +235,5 @@ Deep Learning
 - 순환 신경망(IMDB데이터로 모델학습)
   - LSTM, GRU 적용
 - 합성공 신경망(IMDB, Reuters 데이터적용)
+- 케라스 Word2Vec 구현
+  - Skipgram, CBOW 
